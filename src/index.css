@@ -1,0 +1,15 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background: #050806;
+  color: white;
+  font-family: Inter, system-ui, Arial, sans-serif;
+}
+
+input, textarea, select {
+  outline: none;
+}
